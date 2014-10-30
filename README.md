@@ -1,4 +1,5 @@
 newGitTest
 ==========
 
-1. Git Repo
+Hinweise zur Version 1 :
+- alles wird gut !
